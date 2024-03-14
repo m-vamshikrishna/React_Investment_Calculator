@@ -9,8 +9,8 @@ export default function Result({input})
         <tr>
             <th>Year</th>
             <th>Investment Value</th>
-            <th>Intrest(Year)</th>
-            <th>Total Intrest</th>
+            <th>Interest(Year)</th>
+            <th>Total Interest</th>
             <th>Invested Capital</th>
         </tr>
     </thead>
